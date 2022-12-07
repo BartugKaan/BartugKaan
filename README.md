@@ -3,8 +3,7 @@ Hi 👋 My name is Bartuğ Kaan
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [bartugkaan.celebi@outlook.com](mailto:bartugkaan.celebi@outlook.com)
-* 🧠  I'm learning Solona & Kotlin
-
+* 🧠  I'm learning JavaScript & Kotlin
 ### Skills
 
 
