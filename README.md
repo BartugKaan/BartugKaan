@@ -6,7 +6,7 @@ Computer Enginer student & Mobile Developer
 
 * 🌍  I'm based in Turkey, İstanbul
 * ✉️  You can contact me at [bartugkaan.celebi@outlook.com](mailto:bartugkaan.celebi@outlook.com)
-* 📚  I'm interested with Ios development with Swift & Android development with Jetpack Compose
+* 📚  I'm interested with Mobile Development
 
 
 ### Frontend
