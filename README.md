@@ -5,8 +5,9 @@ Computer Enginer student & Mobile Developer
 ------------------------
 
 * 🌍  I'm based in Turkey, İstanbul
-* ✉️  You can contact me at [bartugkaan.celebi@outlook.com](mailto:bartugkaan.celebi@outlook.com)
+* 📩 You can contact me at [bartugkaan.celebi@outlook.com](mailto:bartugkaan.celebi@outlook.com)
 * 📚  I'm interested with Mobile Development
+* 🧠  I'm currently learning Ios Development with Swift and UIKit
 
 
 ### Frontend
@@ -25,6 +26,7 @@ Computer Enginer student & Mobile Developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/BartugKaan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bartugkaan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <a href="https://github.com/BartugKaan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartugKaan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
