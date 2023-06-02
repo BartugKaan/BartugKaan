@@ -6,8 +6,8 @@ Computer Enginer student & Mobile Developer
 
 * 🌍  I'm based in Turkey, İstanbul
 * 📩 You can contact me at [bartugkaan.celebi@outlook.com](mailto:bartugkaan.celebi@outlook.com)
-* 📚  I'm interested with Mobile Development
-* 🧠  I'm currently learning Ios Development with Swift and UIKit
+* 📚  I'm interested with Mobile Development and Web Development
+* 🧠  I'm currently learning Ios Development and React.js
 
 
 ### Frontend
