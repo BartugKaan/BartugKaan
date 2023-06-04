@@ -1,4 +1,4 @@
-Hi 👋 My name is Bartuğ Kaan Çelebi
+Hi 👋 ,My name is Bartuğ Kaan Çelebi
 ===================================
 
 Computer Enginer student & Mobile Developer
