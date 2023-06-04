@@ -1,13 +1,13 @@
 Hi 👋 ,My name is Bartuğ Kaan Çelebi
 ===================================
 
-Computer Enginer student & Mobile Developer
+Computer Engineering student & IOS Developer
 ------------------------
 
 * 🌍  I'm based in Turkey, İstanbul
 * 📩 You can contact me at [bartugkaan.celebi@outlook.com](mailto:bartugkaan.celebi@outlook.com)
 * 📚  I'm interested with Mobile Development and Web Development
-* 🧠  I'm currently learning Ios Development and React.js
+* 🧠  I'm currently learning Ios Development with UIKit and SwiftUI
 
 
 ### Frontend
@@ -20,7 +20,7 @@ Computer Enginer student & Mobile Developer
 
 
 ### Mobile 
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
 
 
 ### Socials
