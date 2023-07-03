@@ -5,7 +5,8 @@ Computer Engineering student & IOS Developer
 ------------------------
 
 * 🌍  I'm based in Turkey, İstanbul
-* 📩 You can contact me at [bartugkaan.celebi@outlook.com](mailto:bartugkaan.celebi@outlook.com)
+* 📩  You can contact me at [bartugkaan.celebi@outlook.com](mailto:bartugkaan.celebi@outlook.com)
+* 💻  Working at Halkbank as a Mobile Developer Intern
 * 📚  I'm interested with Mobile Development and Web Development
 * 🧠  I'm currently learning Ios Development with UIKit and SwiftUI
 
