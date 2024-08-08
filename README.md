@@ -6,8 +6,8 @@ Computer Engineering student & Software Developer
 
 * 🌍  I'm based in Turkey, İstanbul
 * 📩  You can contact me at [bartugkaan.celebi@outlook.com](mailto:bartugkaan.celebi@outlook.com)
-* 📚  I'm interested with Full Stack Development
-* 🧠  I'm currently learning Full Stack Development with Javascript.
+* 📚  I'm interested with İOS Development and Fullstack Development
+* 🧠  I'm currently learning İOS Development
 
 ### Mobile 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://developer.apple.com/xcode/swiftui/" target= "_blank"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="36" heigh="36" alt="SwiftUI"/></a><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" /></a>
