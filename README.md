@@ -6,7 +6,7 @@ Computer Engineering student & Software Developer
 
 * 🌍  I'm based in Turkey, İstanbul
 * 📩  You can contact me at [bartugkaan.celebi@outlook.com](mailto:bartugkaan.celebi@outlook.com)
-* 📚  I'm interested with İOS Development and Fullstack Development
+* 📚  I'm interested with Mobile Development and Game Development
 * 🧠  I'm currently learning İOS Development
 
 ### Mobile 
