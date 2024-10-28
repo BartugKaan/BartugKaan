@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Cube Surfer Clone](https://github.com/BartugKaan/Cube-Surfer-Clone) and [ASP.Net Core Blog Project](https://github.com/BartugKaan/CoreBlogProject)<br>🤝 I’m looking for Internship or Junior position for Game Development<br>🌱 I’m currently learning Web & Game Development<br> 💬 Get In Touch bartugkaan.celebi@outlook.com<br> 💻 Visit my Website https://bartugkaan.dev/
+🔭 I’m currently working on [Cube Surfer Clone](https://github.com/BartugKaan/Cube-Surfer-Clone) and [ASP.Net Core Blog Project](https://github.com/BartugKaan/CoreBlogProject)<br>🤝 I’m looking for Internship or Junior Web or Mobile Development position.<br>🌱 I’m currently learning Web & Mobile Development<br> 💬 Get In Touch bartugkaan.celebi@outlook.com<br> 💻 Visit my Website https://bartugkaan.dev/
 
 
 ## 🌐 Socials:
