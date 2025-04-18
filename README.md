@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing my own Mobile Application.<br>🤝 I’m looking for Internship or Junior Web - Mobile Development position.<br>🌱 I’m currently learning Web & Mobile Development<br> 💬 Get In Touch bartugkaan.celebi@outlook.com<br> 💻 Visit my Website https://bartugkaan.dev/
+🔭 I’m currently working on developing my own Applications.<br>🤝 I’m looking for Internship or Junior Web - Game Development position.<br>🌱 I’m currently learning Web & Game Development<br> 💬 Get In Touch bartugkaan.celebi@outlook.com<br> 💻 Visit my Website https://bartugkaan.dev/
 
 
 ## 🌐 Socials:
