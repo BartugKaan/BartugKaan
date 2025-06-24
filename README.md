@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing my own Applications.<br>🤝 I’m looking for Internship or Junior Web - Game Development position.<br>🌱 I’m currently learning Web & Game Development<br> 💬 Get In Touch bartugkaan.celebi@outlook.com<br> 💻 Visit my Website https://bartugkaan.dev/
+🔭 I’m currently working at Netax as an Software Developer.<br>🤝 I am open to collaboration in the field of Artificial Intelligence and LLM engineering.<br>🌱 I’m currently learning Web & LLM Engineering <br> 💬 Get In Touch bartugkaan.celebi@outlook.com<br> 💻 Visit my Website https://bartugkaan.dev/
 
 
 ## 🌐 Socials:
