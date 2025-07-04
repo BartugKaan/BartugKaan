@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Netax as an Software Developer.<br>🤝 I am open to collaboration in the field of Backend Devleopment and Game Development.<br>🌱 I’m currently learning Unity & Asp.net core<br> 💬 Get In Touch bartugkaan.celebi@outlook.com<br> 💻 Visit my Website https://bartugkaan.dev/
+🔭 I’m currently working at Netax as an Software Developer.<br>🤝 I am open to collaboration in the field of Backend Devleopment and Game Development.<br>🌱 I’m currently learning Unity & LLM Engineering<br> 💬 Get In Touch bartugkaan.celebi@outlook.com<br> 💻 Visit my Website https://bartugkaan.dev/
 
 
 ## 🌐 Socials:
