@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Netax as an Software Developer.<br>🤝 I am open to collaboration in the field of AI Engineering and Game Development.<br>🌱 I’m currently learning Unity & Agentic Workflow<br> 💬 Get In Touch bartugkaan.celebi@outlook.com<br> 💻 Visit my Website https://bartugkaan.dev/
+🔭 I’m currently working at Netax as an Software Developer.<br>🤝 I am open to collaboration in the field of Full-Stack and Game Development.<br>🌱 I’m currently learning Unity & Microservices<br> 💬 Get In Touch bartugkaan.celebi@outlook.com<br> 💻 Visit my Website https://bartugkaan.dev/
 
 
 ## 🌐 Socials:
