@@ -7,9 +7,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BartugKaan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BartugKaan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BartugKaan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![BartugKaan's Stats](https://github-readme-stats.vercel.app/api?username=BartugKaan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![BartugKaan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BartugKaan&theme=vue-dark&hide_border=true)
+![BartugKaan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BartugKaan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BartugKaan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
